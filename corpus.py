@@ -9,9 +9,6 @@ These objects are the models for `document` and `object`,
 in the sense they are used in Latent Dirichlet Allocation (LDA).
 """
 
-import re
-# read and organize data
-
 #3 2:3 4:5 5:3 --- document info (word:count)
 class Document:
     """The class for a single document."""
