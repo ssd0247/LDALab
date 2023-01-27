@@ -34,7 +34,7 @@ class Corpus:
 
 def read_stream_data(f, num_docs):
     """Convert a dynamic stream of data into a static corpus."""
-    
+    pass
 
 def read_data(filename):
     """Convert the raw file having lines as ``wordid : wordcnt`` into
